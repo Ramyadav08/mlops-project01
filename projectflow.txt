@@ -146,3 +146,5 @@
 ramrekhayadav64_db_user
 YdTHluRL9CA9IRFr
 mongodb+srv://ramrekhayadav64_db_user:YdTHluRL9CA9IRFr@cluster0.pcjgnki.mongodb.net/?appName=Cluster0
+
+$env:MONGODB_URL = "mongodb+srv://ramrekhayadav64_db_user:YdTHluRL9CA9IRFr"
